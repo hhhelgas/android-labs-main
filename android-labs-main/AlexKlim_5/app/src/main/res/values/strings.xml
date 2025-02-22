@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlexKlim_5</string>
+    <string name="say_1_1">"Наташа!"</string>
+    <string name="say_1_2">"Наташ, ты спишь?"</string>
+    <string name="say_1_3">"Просыпайся, Наташ!"</string>
+    <string name="say_2_1">"Наташа, мы всё сломали"</string>
+    <string name="say_2_2">"Уже 6 часов утра, Наташ"</string>
+    <string name="say_2_3">"Вставай давай, Наташ"</string>
+    <string name="say_3_1">"Наташ, ты чё опять лежишь?"</string>
+    <string name="say_3_2">"Мы всё уронили, вообще всё, Наташ, честно"</string>
+    <string name="say_3_3">"Мы не нарочно, Наташ, мы всё уронили"</string>
+    <string name="say_4_1">"Наташ, мы всё поломали"</string>
+    <string name="say_4_2">"Не обижайся, Наташ"</string>
+    <string name="say_4_3">"Наташа, прости"</string>
+</resources>

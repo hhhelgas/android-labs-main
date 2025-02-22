@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlexKlim_3</string>
+    <string name="hello">Hello There!</string>
+    <string name="button_text">Click me</string>
+    <string name="good_people">"You're doing great!"</string>
+    <string name="button_crow">Count crow</string>
+    <string name="button_reset">Reset counter</string>
+    <string name="crow_counter">"Crow counter: "</string>
+</resources>

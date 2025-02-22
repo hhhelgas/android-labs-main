@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MCamera</string>
+    <string name="take_foto">Сделать фото</string>
+    <string name="take_video">Сделать видео</string>
+</resources>

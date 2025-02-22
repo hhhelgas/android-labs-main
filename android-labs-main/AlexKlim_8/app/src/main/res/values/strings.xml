@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laboratory_8</string>
+    <string name="default_button">Стандартная кнопка</string>
+    <string name="cool_button">Крутая кнопка</string>
+    <string name="default_text">Простой текст</string>
+    <string name="cool_text">Крутой текст</string>
+</resources>

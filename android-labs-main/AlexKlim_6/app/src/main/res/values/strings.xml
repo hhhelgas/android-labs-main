@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlexKlim_6</string>
+    <string name="about_text">Программа была разработанна MirGer14</string>
+    <string name="good_day">Хорошего вам дня!</string>
+    <string name="about_title">О программе</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="empty"> </string>
+    <string name="button_description">To main activity</string>
+    <string name="input_name">Введите имя</string>
+    <string name="input_message">Введите сообщение</string>
+    <string name="about_button">Об авторе</string>
+    <string name="second_activity_button">Проверить результаты</string>
+    <string name="send_data_button">Отправить данные</string>
+</resources>

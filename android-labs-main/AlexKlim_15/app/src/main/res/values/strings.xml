@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Конвертор</string>
+    <string name="radiobutton_meters">В метрах</string>
+    <string name="radiobutton_parrots">В попугаях</string>
+    <string name="button_convert_text">Конвертировать</string>
+    <string name="input_value">Введите значение</string>
+    <string name="in_parrots">В поппугаях</string>
+    <string name="in_elbows">В локтях</string>
+    <string name="in_meters">В метрах</string>
+    <string name="in_boas">В удавах</string>
+    <string name="in_monkeys">В мартышках</string>
+    <string name="in_insulins">В инсулинках</string>
+    <string name="convert">Конвертировать</string>
+    <string name="clear">Очистить</string>
+</resources>

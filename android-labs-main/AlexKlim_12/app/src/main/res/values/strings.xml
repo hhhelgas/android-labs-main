@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">laboratory_12</string>
+    <string name="menu_position_1">Пункт меню №1</string>
+    <string name="menu_position_2">Пункт меню №2</string>
+    <string name="menu_position_3">Пункт меню №3</string>
+    <string name="menu_position_4">Пункт меню №4</string>
+    <string name="menu_position_5">Пункт меню №5</string>
+    <string name="menu_position_6">Пункт меню №6</string>
+    <string name="submenu">Подменю</string>
+    <string name="button">Нажми на меня</string>
+    <string name="text">Посмотри сюда</string>
+    <string name="words_1">Вы молодец!</string>
+    <string name="words_2">Вы крутой!</string>
+    <string name="words_3">Браво!</string>
+    <string name="words_4">Отлично сработано!</string>
+    <string name="words_5">Ураааааа!</string>
+    <string name="words_6">Вы хорошо справились!</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lab_26</string>
+    <string name="settings_button_name">Настройки</string>
+    <string name="text_in_app">Тут будет какой-то текст</string>
+    <string name="cool_number_text">Хммм...</string>
+
+    <string name="hints_title">Подсказки</string>
+    <string name="hints_summary">Показывать подсказки</string>
+    <string name="number_title">Крутое число</string>
+    <string name="number_summary">Устанавливает крутое число от которого зависит поведение приложения</string>
+    <string name="number_dialogTitle">Введите кртое число в диапозоне от 6 до 24:</string>
+    <string name="text_style_title">Стиль для шрифта текста</string>
+    <string name="text_style_summary">Устанавливает стиль для шрифта текста</string>
+    <string name="text_style_dialogTitle">Выберите стиль для шрифта текста</string>
+    <string name="glad_summaryOff">Вы нашли крутое число???</string>
+    <string name="glad_summaryOn">ВЫ НАШЛИ КРУТОЕ ЧИСЛО!!!</string>
+    <string name="glad_switchTextOff">Нет</string>
+    <string name="glad_switchTextOn">Да</string>
+
+    <string name="text_color_title">Цвет текста</string>
+    <string name="text_color_summary">Цвет текста</string>
+</resources>

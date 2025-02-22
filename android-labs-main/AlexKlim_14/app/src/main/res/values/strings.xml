@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlexKlim_14</string>
+    <string name="channel_descroption">The best channel.</string>
+    <string name="delete_notify">Удалить уведомление</string>
+    <string name="notification">Нажми на меня</string>
+    <string name="message">Напоминание</string>
+    <string name="title">Надо поработать!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="menu">Меню</string>
+    <string name="big_img">Большая картинка</string>
+    <string name="big_text">Много текста</string>
+    <string name="delete_all_notify">Удалить все уведомления</string>
+    <string name="big_message">Вот сидишь и думаешь, стоит деалть, не стоит делать. \nЧто будет если я сделаю текущие задачи, что будет если не сделаю? Со временем понимаешь что придаваться данным мыслям ни к чему не приведёт. Встаёшь идёшь и делаешь.</string>
+</resources>

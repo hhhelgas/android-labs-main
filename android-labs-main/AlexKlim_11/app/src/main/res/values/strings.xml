@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">laboratory_11</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_dog_male">Пёс</string>
+    <string name="action_dog_female">Собака</string>
+    <string name="action_puppy">Щенок</string>
+    <string name="super_dog">Собакен</string>
+    <string name="answer_dog_male">Вы выбрали пса</string>
+    <string name="answer_dog_female">Вы выбрали собаку</string>
+    <string name="answer_puppy">Вы выбрали щенка</string>
+</resources>

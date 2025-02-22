@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlexKlim_7</string>
+    <string name="button_name_1">"Кнопка 1"</string>
+    <string name="button_name_2">"Кнопка 2"</string>
+    <string name="button_name_3">"Кнопка 3"</string>
+    <string name="button_name_4">"Кнопка 4"</string>
+    <string name="button_name_5">"Кнопка 5"</string>
+    <string name="button_name_6">"Кнопка 6"</string>
+    <string name="default_text">DEFAULT</string>
+    <string name="vertical">Портретная</string>
+    <string name="horizontal">Горизонтальная</string>
+</resources>

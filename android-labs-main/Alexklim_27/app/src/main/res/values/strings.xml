@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_27</string>
+    <string name="open">Open</string>
+    <string name="save">Save</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pref_openmode">Режим открытия</string>
+
+</resources>

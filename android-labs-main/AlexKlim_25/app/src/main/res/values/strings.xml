@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab_25</string>
+    <string name="counter">О, +1 ворона</string>
+    <string name="crow_view">Пока что, ворон не видно...</string>
+    <string name="stop">Ох, всё сбился, заново</string>
+    <string name="i_counted">Я насчитал %1$d ворон</string>
+</resources>

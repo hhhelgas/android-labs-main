@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">laboratory_9</string>
+    <string name="message">Приветствую тебя!</string>
+    <string name="button_text">Нажми на меня</string>
+</resources>

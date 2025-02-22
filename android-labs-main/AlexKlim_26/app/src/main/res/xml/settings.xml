@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="General">
+        <CheckBoxPreference
+            android:key="notifications"
+            android:title="Enable Notifications" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hints"
+            android:summary="@string/hints_summary"
+            android:title="@string/hints_title"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Cool Number">
+        <EditTextPreference
+            android:defaultValue="6"
+            android:key="cool_number"
+            android:summary="@string/number_summary"
+            android:title="@string/number_title"
+            android:dialogTitle="@string/number_dialogTitle" />
+        <ListPreference
+            android:key="test_style"
+            android:title="@string/text_style_title"
+            android:summary="@string/text_style_summary"
+            android:defaultValue="1"
+            android:entries="@array/text_style"
+            android:entryValues="@array/text_style"
+            android:dialogTitle="@string/text_style_dialogTitle" />
+        <PreferenceScreen
+            android:key="text_color"
+            android:title="@string/text_color_title"
+            android:summary="@string/text_color_summary"
+            android:dependency="hints">
+
+            <CheckBoxPreference
+                android:key="text_color_black"
+                android:title="Черный"
+                android:defaultValue="true"
+                android:summary="Устанавливает черный цвет" />
+            <CheckBoxPreference
+                android:key="text_color_red"
+                android:title="Красный"
+                android:summary="Устанавливает красный цвет" />
+            <CheckBoxPreference
+                android:key="text_color_green"
+                android:title="Зеленый"
+                android:summary="Устанавливает зеленый цвет" />
+            <CheckBoxPreference
+                android:key="text_color_blue"
+                android:title="Синий"
+                android:summary="Устанавливает синий цвет" />
+        </PreferenceScreen>
+        <SwitchPreference
+            android:key="glad"
+            android:summaryOff="@string/glad_summaryOff"
+            android:summaryOn="@string/glad_summaryOn"
+            android:switchTextOff="@string/glad_switchTextOff"
+            android:switchTextOn="@string/glad_switchTextOn" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlexKlim_4</string>
+    <string name="button_red">Red</string>
+    <string name="button_yellow">Yellow</string>
+    <string name="button_green">Green</string>
+    <string name="default_color">White</string>
+</resources>
